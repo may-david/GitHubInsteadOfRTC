@@ -1,14 +1,14 @@
 ---
-name: Bug Task
-about: A Task to fix a reported defect and associated with a Bug
+name: User Story Task
+about: Task to implement a part of a User Story
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 
 ---
 
 **Task Title**
-[Bug](https://www.google.com)
+[User Story](https://www.google.com)
 
 Task Description...
 
