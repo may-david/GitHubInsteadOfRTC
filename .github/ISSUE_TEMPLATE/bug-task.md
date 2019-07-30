@@ -1,6 +1,6 @@
 ---
 name: Bug Task
-about: A Task to fix a reported defect and associated with a Bug
+about: A Task to fix a reported defect and associate with a Bug
 title: ''
 labels: bug
 assignees: ''
